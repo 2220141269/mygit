@@ -1,3 +1,3 @@
 ni hao
 copy that
-creating a new brancg is quick & simple.
+Creating a new branch is quick and simple
