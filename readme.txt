@@ -1,3 +1,3 @@
 ni hao
 copy that
-hello
+Creating a new branch is quick and simple
